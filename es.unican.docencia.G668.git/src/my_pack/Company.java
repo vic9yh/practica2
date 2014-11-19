@@ -1,8 +1,9 @@
+
 package my_pack;
 
 public class Company {
 	public void identify(){
-		System.out.println("Alba");
+		System.out.println("Victor/Alba");
 	}
 
 }
