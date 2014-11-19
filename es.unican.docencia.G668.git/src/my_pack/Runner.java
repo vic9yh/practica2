@@ -22,7 +22,7 @@ public class Runner {
 			
 			 Amr workerAtRight = new Amr();
 			 Vgc workerAtLeft   = new Vgc();
-			// Company company     = new Company();
+			 Company company     = new Company();
 		
 			System.out.println("==================================================");
 			System.out.println("              Product Developed by                ");
