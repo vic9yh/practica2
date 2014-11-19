@@ -21,7 +21,7 @@ public class Runner {
 		 if (guardian.hasAccess()) {
 			
 			 Amr workerAtRight = new Amr();
-			// Left workerAtLeft   = new Left();
+			 Vgc workerAtLeft   = new Vgc();
 			// Company company     = new Company();
 		
 			System.out.println("==================================================");
